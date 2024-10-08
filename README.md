@@ -6,7 +6,7 @@ How to run?
 STEPS:
 Clone the repository
 
-Project repo: https://github.com/ABHISHEKGOWDAG/END-TO-END-MEDICAL-CHATBOT-USING-LLAMA2
+Project repo: https://github.com/ABHISHEKGOWDAG/END-TO-END-MEDICAL-CHATBOT-USING-THE-LLAMA2
 
 
 ## STEP 01- Create a conda environment after opening the repository
